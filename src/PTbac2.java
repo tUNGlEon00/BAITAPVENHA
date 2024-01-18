@@ -21,7 +21,7 @@ public class PTbac2 {
             System.out.println(" pt co 2 nghiem phan biet: " );
             System.out.println( "x1 = " + x1);
             System.out.println( "x2 = " + x2);
-        }                        
+        }  sc.close();                      
 
 }
 }
